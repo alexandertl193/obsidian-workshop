@@ -1,0 +1,12 @@
+# Configuración local de Obsidian (estado de la ventana, cachés)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Plugin de sincronización / papelera
+.trash/
